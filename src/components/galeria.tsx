@@ -22,7 +22,6 @@ const Galeria = () => {
                     centeredSlides={true}
                     freeMode={true}
                     speed={38000}
-                    freeModeMomentum={false}
                     autoplay={{
                         delay: 0,
                         disableOnInteraction: false,
