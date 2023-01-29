@@ -1,7 +1,7 @@
 const Colors = () => {
     return (
         <section className="bg-fundoColors">
-            <div className="container mx-auto lg:flex gap-10 mb-10">
+            <div className="container mx-auto lg:flex gap-10 mb-10 px-5">
                 <div className="text-center pt-20 flex flex-col md:text-left">
                     <h1 className="my-10 text-4xl font-bold">Two colors. <br />
                         Choose your best.</h1>

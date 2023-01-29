@@ -1,6 +1,6 @@
 const Spacs = () => {
     return (
-        <section className="container mx-auto grid lg:grid-cols-2">
+        <section className="container mx-auto grid lg:grid-cols-2 px-5">
             <div>
                 <h1 className="my-10 pt-10 text-5xl font-bold">Spacs</h1>
                 <div className="table">

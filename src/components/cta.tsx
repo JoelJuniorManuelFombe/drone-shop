@@ -1,7 +1,7 @@
 const Cta = () => {
     return (
         <section className="bg-white">
-            <div className="container mx-auto">
+            <div className="container mx-auto px-5">
                 <div>
                     <div className="relative top-14 sm:top-28 lg:top-48">
                         <div className="flex flex-col justify-center items-center font-bold text-xs sm:text-lg lg:text-4xl">

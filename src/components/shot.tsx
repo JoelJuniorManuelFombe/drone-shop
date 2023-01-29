@@ -3,7 +3,7 @@ import { BsArrowRightShort, BsPlayFill } from "react-icons/bs";
 
 const Shot = () => {
     return (
-        <div className="container mx-auto my-20 py-20">
+        <div className="container mx-auto my-20 py-20 px-5">
             <div>
                 <div className="gap-5 space-y-5 text-center lg:text-start lg:flex items-center">
                     <h1 className="text-5xl lg:w-1/2">Shoot like a pro with our new easy to use ProDrone 2.0
