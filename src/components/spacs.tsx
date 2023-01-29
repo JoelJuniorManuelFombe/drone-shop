@@ -38,7 +38,7 @@ const Spacs = () => {
                             <tr>
                                 <th className="h-5 p-1 text-3xl">Camera Sensor</th>
                                 <td className="p-1">
-                                    <span className="text-2xl inline-block my-4 p-1">1" CMOS
+                                    <span className="text-2xl inline-block my-4 p-1">1 CMOS
                                         Effective pixels: 20 M</span>
                                 </td>
                             </tr>
