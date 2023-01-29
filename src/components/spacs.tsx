@@ -7,63 +7,63 @@ const Spacs = () => {
                     <table className="table align-middle">
                         <tbody className="text-left">
                             <tr>
-                                <th className="h-5 p-1 text-3xl">
+                                <th className="h-5 p-1 text-2xl">
                                     Weight (Battery & Propellers Included)</th>
                                 <td className="p-1">
-                                    <span className="text-2xl inline-block my-4 p-1">1400 g</span>
+                                    <span className="text-xl inline-block my-4 p-1">1400 g</span>
                                 </td>
                             </tr>
                             <tr>
-                                <th className="h-5 p-1 text-3xl">
+                                <th className="h-5 p-1 text-2xl">
                                     Max Flight Time</th>
                                 <td className="p-1">
-                                    <span className="text-2xl inline-block my-4 p-1">Approx. 60 minutes</span>
+                                    <span className="text-xl inline-block my-4 p-1">Approx. 60 minutes</span>
                                 </td>
                             </tr>
                             <tr>
-                                <th className="h-5 p-1 text-3xl">Vision System</th>
+                                <th className="h-5 p-1 text-2xl">Vision System</th>
                                 <td className="p-1">
-                                    <span className="text-2xl inline-block my-4 p-1">Forward Vision System
+                                    <span className="text-xl inline-block my-4 p-1">Forward Vision System
                                         Backward Vision System
                                         Downward Vision System</span>
                                 </td>
                             </tr>
                             <tr>
-                                <th className="h-5 p-1 text-3xl">Obstacle Sensing</th>
+                                <th className="h-5 p-1 text-2xl">Obstacle Sensing</th>
                                 <td className="p-1">
-                                    <span className="text-2xl inline-block my-4 p-1">Front & Rear Obstacle Avoidance
+                                    <span className="text-xl inline-block my-4 p-1">Front & Rear Obstacle Avoidance
                                         Left & Right Infrared Obstacle Avoidance</span>
                                 </td>
                             </tr>
                             <tr>
-                                <th className="h-5 p-1 text-3xl">Camera Sensor</th>
+                                <th className="h-5 p-1 text-2xl">Camera Sensor</th>
                                 <td className="p-1">
-                                    <span className="text-2xl inline-block my-4 p-1">1 CMOS
+                                    <span className="text-xl inline-block my-4 p-1">1 CMOS
                                         Effective pixels: 20 M</span>
                                 </td>
                             </tr>
                             <tr>
-                                <th className="h-5 p-1 text-3xl">Max. Video Recording Resolution</th>
+                                <th className="h-5 p-1 text-2xl">Max. Video Recording Resolution</th>
                                 <td className="p-1">
-                                    <span className="text-2xl inline-block my-4 p-1">4K 60P</span>
+                                    <span className="text-xl inline-block my-4 p-1">4K 60P</span>
                                 </td>
                             </tr>
                             <tr>
-                                <th className="h-5 p-1 text-3xl">Max Transmission Distance</th>
+                                <th className="h-5 p-1 text-2xl">Max Transmission Distance</th>
                                 <td className="p-1">
-                                    <span className="text-2xl inline-block my-4 p-1">FCC: 4.3 mi</span>
+                                    <span className="text-xl inline-block my-4 p-1">FCC: 4.3 mi</span>
                                 </td>
                             </tr>
                             <tr>
-                                <th className="h-5 p-1 text-3xl">Video Transmission System</th>
+                                <th className="h-5 p-1 text-2xl">Video Transmission System</th>
                                 <td className="p-1">
-                                    <span className="text-2xl inline-block my-4 p-1">Lightbridge</span>
+                                    <span className="text-xl inline-block my-4 p-1">Lightbridge</span>
                                 </td>
                             </tr>
                             <tr>
-                                <th className="h-5 p-1 text-3xl">Operating Frequency</th>
+                                <th className="h-5 p-1 text-2xl">Operating Frequency</th>
                                 <td className="p-1">
-                                    <span className="text-2xl inline-block my-4 p-1">2.4 GHz/5.8 GHz</span>
+                                    <span className="text-xl inline-block my-4 p-1">2.4 GHz/5.8 GHz</span>
                                 </td>
                             </tr>
                         </tbody>

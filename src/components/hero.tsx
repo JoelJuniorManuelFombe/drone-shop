@@ -22,7 +22,7 @@ const Thumbnails = ({ src }: any) => {
 const Hero = () => {
     return (
         <div className="bg-[conic-gradient(at_top_right,_var(--tw-gradient-stops))] from-blue-700 via-blue-800 to-gray-900 overflow-x-hidden">
-            <div className="flex container mx-auto lg:content-between lg:max-w-7xl my-20 content-center px-5">
+            <div className="lg:flex container mx-auto lg:content-between lg:max-w-7xl my-20 content-center px-5">
                 <div className="lg:min-w-[550px] flex flex-col content-center items-center text-white mx-auto space-y-10">
                     <div className="text-center">
                         <p className="text-xl">Make your moments fly with</p>
